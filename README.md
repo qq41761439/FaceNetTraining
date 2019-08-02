@@ -11,3 +11,6 @@ or write a python script with import requests but this method is too much memory
 
 Total training dataset is about 36G, downloading which may take several minutes.
 
+### Step 2 decompression
+7z e ~/vggface2_train.tar.gz
+tar –xvf vggface2_train.tar
